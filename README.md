@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/74490865?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=printf(%22Hello%2C+World!%22);I'm+coming%2C+but+where+are+you%3F)](https://git.io/typing-svg)
